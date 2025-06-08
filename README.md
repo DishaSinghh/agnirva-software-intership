@@ -1,3 +1,3 @@
-# apnacoll
-chnaging this to agnivera intern proj program
-author - disha (sky)
+# agnirva software internship
+chnaging this to agnirva intern proj program
+
